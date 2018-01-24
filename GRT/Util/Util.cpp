@@ -21,6 +21,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 #define GRT_DLL_EXPORTS
 #include "Util.h"
 #include "TimeStamp.h"
+#include <cmath>
 
 namespace GRT {
 
